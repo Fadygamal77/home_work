@@ -1,0 +1,3 @@
+// in var once you intialized the variable the data type of var is determined from this value and cannot be changed later
+// but dynamic the data type is dynamic and can be changed later
+// also dynamic is data type but var is keyword
